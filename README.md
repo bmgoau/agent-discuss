@@ -11,3 +11,11 @@ Place in somewhere like `~/.mcp-servers/` and then add the following to your MCP
       ]
     }
 ```
+
+Then tell agent 1 
+
+`Begin a discussion using agent-discuss, share your thoughts, tell me the session ID, then wait for a reply, continue in turn until a consensus is reached.`
+
+Then tell agent 2 
+
+`Join <session ID> via agent-discuss, share your thoughts, then wait for a reply, continue in turn until a consensus is reached.`
